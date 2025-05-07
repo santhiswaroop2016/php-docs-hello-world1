@@ -15,4 +15,8 @@ $name1 = "Triveni";
 echo "Hi! My name is " . $name1 . "<br>";
 echo "Hi! My name is " . $name1 . "<br>";
 echo "Hi! My name is " . $name1 . "<br>";
+$name1 = "Tashana";
+echo "Hi! My name is " . $name1 . "<br>";
+echo "Hi! My name is " . $name1 . "<br>";
+echo "Hi! My name is " . $name1 . "<br>";
 ?>
